@@ -23,20 +23,26 @@
 # Registers:
 
 # File marks:
-'0  4  12  ~/about.html
-|4,48,4,12,1677327973,"~/about.html"
+'0  4  11  ~/about.html
+|4,48,4,11,1677400763,"~/about.html"
+'1  4  12  ~/about.html
+|4,49,4,12,1677327973,"~/about.html"
 
 # Jumplist (newest first):
+-'  4  11  ~/about.html
+|4,39,4,11,1677400763,"~/about.html"
 -'  4  12  ~/about.html
 |4,39,4,12,1677327973,"~/about.html"
+-'  1  0  ~/about.html
+|4,39,1,0,1677327892,"~/about.html"
 -'  1  0  ~/about.html
 |4,39,1,0,1677327892,"~/about.html"
 
 # History of marks within files (newest to oldest):
 
 > ~/about.html
-	*	1677327971	0
-	"	4	12
-	^	4	13
+	*	1677400762	0
+	"	4	11
+	^	4	12
 	.	4	13
 	+	4	13
